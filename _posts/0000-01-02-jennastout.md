@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Necessity is the mother of invention
 Use the left arrow to go back!
